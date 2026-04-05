@@ -1,5 +1,4 @@
-
----
+# SOC-Lab
 
 ## 📦 Setup & Deployment
 
